@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/garage?utm_medium=integration&utm_source=button&utm_campaign=garage)
+
 # Garage on Railway
 
 A Railway template for [Garage](https://garagehq.deuxfleurs.fr), the lightweight, open-source (AGPL-3.0) S3-compatible object store from Deuxfleurs. It adds S3 storage to a project you already run on Railway, reachable over the private network.
